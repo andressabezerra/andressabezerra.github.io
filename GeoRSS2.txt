@@ -1,5 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+      xmlns:georss="http://www.georss.org/georss"
+      xmlns:woe="http://where.yahooapis.com/v1/schema.rng"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+
 <entry>
     <title>Esse local é foco do aedes!</title>
     <content type="html"> Segundo fulano de tal esse local é foco do aedes agep...data dia tal e teve ....</content>
@@ -17,3 +25,5 @@
     <geo:long>-38,5089375</geo:long>
 </entry>
 
+
+</feed>
