@@ -14,6 +14,7 @@
     <georss:point>-3.7572834 -38.547963</georss:point>
     <geo:lat>-3.7572834</geo:lat>
     <geo:long>-38.547963</geo:long>
+ <woe:woeid>12589327</woe:woeid>
 </entry>
 
 
