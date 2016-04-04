@@ -17,24 +17,8 @@
   <generator uri="http://www.flickr.com/">Flickr</generator>
 
 <entry>
-    <title>Manhattan, NY</title>
-    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/shreck/228310988/"/>
-    <id>tag:flickr.com,2005:/photo/228310988</id>
-    <published>2006-08-29T15:42:35Z</published>
-    <updated>2006-08-29T15:42:35Z</updated>
-    <flickr:date_taken>2005-10-02T17:35:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2005-10-02T17:35:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/shreck/&quot;&gt;manshreck&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/shreck/228310988/&quot; title=&quot;Manhattan, NY&quot;&gt;&lt;img src=&quot;http://farm1.staticflickr.com/74/228310988_33a56d0108_m.jpg&quot; width=&quot;240&quot; height=&quot;179&quot; alt=&quot;Manhattan, NY&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Faulkner rests after the journey ends, Midtown Manhattan&lt;/p&gt;</content>
-    <author>
-      <name>manshreck</name>
-      <uri>http://www.flickr.com/people/shreck/</uri>
-      <flickr:nsid>51296622@N00</flickr:nsid>
-      <flickr:buddyicon>http://farm1.staticflickr.com/29/buddyicons/51296622@N00.jpg?1130103303#51296622@N00</flickr:buddyicon>
-    </author>
+    <title>Esse local é foco do aedes!</title>
+    <content type="html"> Segundo fulano de tal esse local é foco do aedes agep...data dia tal e teve ....</content>
     <link rel="enclosure" type="image/jpeg" href="http://farm1.staticflickr.com/74/228310988_33a56d0108_z.jpg" />
     <category term="" scheme="http://www.flickr.com/photos/tags/" />
     <displaycategories>
